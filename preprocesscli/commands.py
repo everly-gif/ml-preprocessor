@@ -56,7 +56,7 @@ class Commands:
             extractOption = x[3].split("=")
             extractColumns = extractColumn[1].split(",")
             for i in extractColumns:
-                self.data[extractColumns] = self.data[extractColumns].fillna(value=eval(extractOption[1]))
+                self.data[extractColumns] = self.data[extractColumns].fillna(value=extractOption[1])
             print(self.data)
             print("\nThese are the columns where NULL values are present")
             nullColumns = []
