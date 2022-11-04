@@ -28,6 +28,24 @@ as univariate analysis along with graph plotting, bivariate analysis, and data w
 <img src="https://user-images.githubusercontent.com/77877486/199954041-1881fbc9-dea7-4f0c-8487-44826ba18958.png" width=350px/>
 </p>
 
+## Requirements
+
+Have python3 and pip installed locally. 
+
+## Execution
+
+1. Fork this repository or download the code zip file.<br><br>
+2. Clone the repository if forked.
+```bash
+git clone https://github.com/<username>/ml-preprocessor.git
+```
+3. Navigate to base folder `ml-preprocessor` and execute below command\
+
+```python
+pip install --editable .
+```
+4. Move your dataset within this directory and start preprocessing your dataset with simple commands!
+
 ## Screenshots
 
 ![](https://user-images.githubusercontent.com/77877486/199954854-04c08b93-9ca9-4000-9f59-a632b5940624.png)
@@ -38,3 +56,14 @@ as univariate analysis along with graph plotting, bivariate analysis, and data w
 ![](https://user-images.githubusercontent.com/77877486/199955194-7b9940ce-34b3-4399-af8a-4e09239200c1.png)
 ![](https://user-images.githubusercontent.com/77877486/199955269-6ad5b373-458f-4a2a-9b0b-25590dffae46.png)
 ![](https://user-images.githubusercontent.com/77877486/199954688-834cea76-d211-4b8b-ab92-90935c60ac9f.png)
+
+## Contributors
+<div align="center">
+<table>
+  <tbody><tr>
+     <td align="center"><a href="https://github.com/everly-gif"><img alt="https://avatars.githubusercontent.com/u/77877486?v=4" src="https://avatars.githubusercontent.com/u/77877486?v=4" width="130px;"><br><sub><b>Everly Precia Suresh</b></sub></a><br></td>
+    <td align="center"><a href="https://github.com/RPK2103"><img alt="https://avatars.githubusercontent.com/u/60558428?v=4" src="https://avatars.githubusercontent.com/u/60558428?v=4" width="130px;"><br><sub><b>Kaviyashre Ragupathy</b></sub></a><br></td>
+  </tr>
+  
+</tbody></table>
+</div>
