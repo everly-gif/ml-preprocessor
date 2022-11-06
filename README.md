@@ -44,7 +44,9 @@ git clone https://github.com/<username>/ml-preprocessor.git
 ```python
 pip install --editable .
 ```
-4. Move your dataset within this directory and start preprocessing your dataset with simple commands!
+4. Enter into the cli by typing `preprocesscli` in the terminal.
+
+5. Move your dataset within this directory and start preprocessing your dataset with simple commands!
 
 ## Screenshots
 
