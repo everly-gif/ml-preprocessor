@@ -39,7 +39,7 @@ Have python3 and pip installed locally.
 ```bash
 git clone https://github.com/<username>/ml-preprocessor.git
 ```
-3. Navigate to base folder `ml-preprocessor` and execute below command\
+3. Navigate to base folder `ml-preprocessor` and execute below command
 
 ```python
 pip install --editable .
